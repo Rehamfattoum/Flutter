@@ -1,4 +1,7 @@
-# Install and Run Flutter
+# Flutter
+
+
+##Install and Run Flutter
 
 To install and run Flutter, your development environment must meet these minimum requiremen
 
@@ -11,8 +14,8 @@ To install and run Flutter, your development environment must meet these minimum
  ## steps for install : 
  - install flutter SDK from [click](https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_2.5.3-stable.zip)
  - install Dart SDK from  [click](https://storage.googleapis.com/dart-archive/channels/stable/release/2.14.4/sdk/dartsdk-windows-x64-release.zip)
- - install java from [click](https://www.java.com/)
- - install Android Studio from [click](https://code.visualstudio.com/)
+ - install java from [click](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe)
+ - install Android Studio from [click](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=17)
  
  ###### Note: choose the latest version and 
  - extract this zip.file (flutter SDK,Dart SDK, java) into place(such as Documents) 
@@ -20,7 +23,7 @@ To install and run Flutter, your development environment must meet these minimum
  - update Path by append the full path to flutter\bin && dart\bin
  ###### Note: follow the steps in photo 
  
- ![steps in photo](C:\Users\User\Documents\Flutter\step.png)
+ ![steps in photo](https://www.remove.bg/upload)
  
  - set JAVA_HOME environment variable 
  
