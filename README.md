@@ -9,10 +9,11 @@ To install and run Flutter, your development environment must meet these minimum
  - Dart
  
  ## steps for install : 
- - install flutter SDK from "https://flutter.dev/"
- - install Dart SDK from "https://dart.dev/"
- - install java from "https://www.java.com/"
- - install Android Studio from "https://code.visualstudio.com/"
+ - install flutter SDK from [click](https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_2.5.3-stable.zip)
+ - install Dart SDK from  [click](https://storage.googleapis.com/dart-archive/channels/stable/release/2.14.4/sdk/dartsdk-windows-x64-release.zip)
+ - install java from [click](https://www.java.com/)
+ - install Android Studio from [click](https://code.visualstudio.com/)
+ 
  ###### Note: choose the latest version and 
  - extract this zip.file (flutter SDK,Dart SDK, java) into place(such as Documents) 
  - Installations the android studio by click on the icon and  (next => next => next .....)
