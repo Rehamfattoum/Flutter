@@ -11,7 +11,7 @@ To install and run Flutter, your development environment must meet these minimum
  - version of Java 8 
  - Dart
  
- ## steps for install : 
+ ### steps for install : 
  - install flutter SDK from [click](https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_2.5.3-stable.zip)
  - install Dart SDK from  [click](https://storage.googleapis.com/dart-archive/channels/stable/release/2.14.4/sdk/dartsdk-windows-x64-release.zip)
  - install java from [click](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe)
@@ -23,19 +23,24 @@ To install and run Flutter, your development environment must meet these minimum
  - update Path by append the full path to flutter\bin && dart\bin
  ###### Note: follow the steps in photo 
  
- ![steps in photo](https://www.remove.bg/upload)
+ ![step](https://user-images.githubusercontent.com/92294502/143201113-0defb188-c787-4886-a7e1-b732fcee5156.png)
+
  
  - set JAVA_HOME environment variable 
  
- ![javahome](C:\Users\User\Documents\Flutter\javahome.png)
  
+ ![javahome](https://user-images.githubusercontent.com/92294502/143201178-a9206dde-5216-4c37-af4a-4b722afe67b2.png)
+
  - open android studio => system setting => Android SDK => will appear three tabs(SDK platforms , SDK tools , SDK update sites) 
   - num1: click on SDK platform tab => check Android API
   - num2: click on  SDK tools tab =>check this : Android SDK Build Tools & Android Emulator & Android SDK platform-tools & intel X86 Emulator Accelerator (HAXM installer)
  - from  system setting => plugins and search about " dart " and install it && search about " flutter " and install it
  - Finally : from  system setting => Android SDK=> 
  add the path of (Android SDK Locations)
-  ![android_home](C:\Users\User\Documents\Flutter\androidhome.png)
+  
+  
+  ![androidhome](https://user-images.githubusercontent.com/92294502/143201256-01df3a3a-408d-4062-8b8f-a6ad7d9e97c9.png)
+
  - add command in cmd : 
  
  ```
@@ -44,5 +49,5 @@ To install and run Flutter, your development environment must meet these minimum
 ```
  
 ##### this command checks your environment and displays a report of the status of your Flutter installation. Check the output carefully for other software you might need to install or further tasks to perform 
- ![flutter doctor](C:\Users\User\Documents\Flutter\flutterdoctor.png)
-
+ 
+![doctorflutter](https://user-images.githubusercontent.com/92294502/143201312-2c13bbb2-79d0-45cd-a4f5-fb53a02218a1.png)
