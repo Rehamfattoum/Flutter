@@ -53,4 +53,9 @@ To install and run Flutter, your development environment must meet these minimum
 ![doctorflutter](https://user-images.githubusercontent.com/92294502/143201312-2c13bbb2-79d0-45cd-a4f5-fb53a02218a1.png)
 
 ###### Note :This photo above  explains if there are problems , we notice a problem in "Android licenses" so to solve it , you must follow the instruction that appears to you
-(flutter doctor -- indroid-licenses)
+
+```
+-- flutter doctor -- indroid-licenses
+-- 
+```
+
