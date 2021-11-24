@@ -11,7 +11,7 @@ To install and run Flutter, your development environment must meet these minimum
  - version of Java 8 
  - Dart
  
- ### steps for install : 
+ ### steps for install  : 
  - install flutter SDK from [click](https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_2.5.3-stable.zip)
  - install Dart SDK from  [click](https://storage.googleapis.com/dart-archive/channels/stable/release/2.14.4/sdk/dartsdk-windows-x64-release.zip)
  - install java from [click](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe)
@@ -21,7 +21,7 @@ To install and run Flutter, your development environment must meet these minimum
  - extract this zip.file (flutter SDK,Dart SDK, java) into place(such as Documents) 
  - Installations the android studio by click on the icon and  (next => next => next .....)
  - update Path by append the full path to flutter\bin && dart\bin
- ###### Note: follow the steps in photo 
+ ###### Note: follow the steps in photo to update the path 
  
  ![step](https://user-images.githubusercontent.com/92294502/143201113-0defb188-c787-4886-a7e1-b732fcee5156.png)
 
