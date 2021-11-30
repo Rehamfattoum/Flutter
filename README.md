@@ -19,6 +19,7 @@ To install and run Flutter, your development environment must meet these minimum
  
  ###### Note: choose the latest version and 
  - extract this zip.file (flutter SDK,Dart SDK, java) into place(such as Documents) 
+ - Installations the java by click on the icon and  (next => next => next .....)
  - Installations the android studio by click on the icon and  (next => next => next .....)
  - update Path by append the full path to flutter\bin && dart\bin
  ###### Note: follow the steps in photo to update the path 
