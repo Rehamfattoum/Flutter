@@ -24,13 +24,19 @@ To install and run Flutter, your development environment must meet these minimum
  - update Path by append the full path to flutter\bin && dart\bin
  ###### Note: follow the steps in photo to update the path 
  
- ![step](https://user-images.githubusercontent.com/92294502/143201113-0defb188-c787-4886-a7e1-b732fcee5156.png)
+![Animation 1](https://user-images.githubusercontent.com/92294502/144127042-681e3864-fef1-44a1-94ce-eee0ea8dce93.gif)
 
  
  - set JAVA_HOME environment variable 
  
  
- ![javahome](https://user-images.githubusercontent.com/92294502/143201178-a9206dde-5216-4c37-af4a-4b722afe67b2.png)
+ ![Animation 2](https://user-images.githubusercontent.com/92294502/144127155-b97e5f7d-9734-4e7b-814a-f306efac2236.gif)
+ 
+ - set ANDROID-HOME environment variable 
+ 
+  ![Animation 4](https://user-images.githubusercontent.com/92294502/144127437-cf209677-a5fa-4f3b-8437-00a6dd7bb6f3.gif)
+
+
 
  - open android studio => system setting => Android SDK => will appear three tabs(SDK platforms , SDK tools , SDK update sites) 
   - num1: click on SDK platform tab => check Android API
