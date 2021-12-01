@@ -28,7 +28,8 @@ To install and run Flutter, your development environment must meet these minimum
  - update Path by append the full path to flutter\bin && dart\bin
  ###### Note: follow the steps in photo to update the path 
  
-![Animation 1](https://github.com/Rehamfattoum/Flutter/blob/main/Animation%201.gif)
+
+![animi](https://user-images.githubusercontent.com/92294502/144233445-e6826bc8-3a11-4268-887e-ac979174fa6d.gif)
 
  
  - set JAVA_HOME environment variable 
