@@ -75,6 +75,19 @@ To install and run Flutter, your development environment must meet these minimum
 flutter doctor -- indroid-licenses
 
 ```
+## Create Virtual Device 
+- 
+
+
+![AVD](https://user-images.githubusercontent.com/92294502/144309904-92132298-117b-4187-ab28-ac9f72e45800.gif)
+
+## create Android App
+- File => New Flutter Application => specifid :
+- 1- application name :
+- 2- Flutter SDK path :
+- 3-project location :
+- => next 
+
 
 ### simple app 
 
