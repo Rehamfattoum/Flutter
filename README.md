@@ -1,8 +1,13 @@
 # Flutter
 
 ## what is flutter ?
+- open source framework by Google
+
+![whatIsFlutter](https://user-images.githubusercontent.com/92294502/144235081-8931d918-9c82-4d17-8670-81b6e9f503fd.png)
+
 
 ## why Flutter ?
+![flutter intro](https://user-images.githubusercontent.com/92294502/144235103-aed3f6a6-4c4e-4886-bca9-61430862b980.jpg)
 
 
 ## Install and Run Flutter
@@ -70,4 +75,10 @@ To install and run Flutter, your development environment must meet these minimum
 flutter doctor -- indroid-licenses
 
 ```
+
+### simple app 
+
+
+
+![simple example](https://user-images.githubusercontent.com/92294502/144235245-d57144ca-257f-4ef1-a9ef-df3ae91a74a7.gif)
 
