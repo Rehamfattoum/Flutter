@@ -89,9 +89,4 @@ flutter doctor -- indroid-licenses
 - => next 
 
 
-### simple app 
-
-
-
-![simple example](https://user-images.githubusercontent.com/92294502/144235245-d57144ca-257f-4ef1-a9ef-df3ae91a74a7.gif)
 
