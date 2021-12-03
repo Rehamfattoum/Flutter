@@ -24,7 +24,7 @@ To install and run Flutter, your development environment must meet these minimum
  - install flutter SDK from [click](https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_2.5.3-stable.zip)
  - install Dart SDK from  [click](https://storage.googleapis.com/dart-archive/channels/stable/release/2.14.4/sdk/dartsdk-windows-x64-release.zip)
  - install java from [click](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe)
- - install Android Studio from [click](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=17)
+ - install Android Studio from [click](http://redirector.gvt1.com/edgedl/android/studio/install/2020.3.1.25/android-studio-2020.3.1.25-windows.exe)
  
  ###### Note: choose the latest version and 
  - extract this zip.file (flutter SDK,Dart SDK, java) into place(such as Documents) 
